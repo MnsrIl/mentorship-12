@@ -1,10 +1,10 @@
-package tech.itmentor.resttemplate.task_11;
+package tech.itmentor.resttemplate.Task12;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Task11ApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {
